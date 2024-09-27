@@ -1176,9 +1176,9 @@ select {
 /* Contact Section */
 
 .contact .contact-info-item {
-    flex: 0 0 33.33%;
+    flex: 0 0 50%;
     -ms-flex: 0 0 33.33%;
-    max-width: 33.33%;
+    max-width: 50%;
     text-align: center;
     margin-bottom: 40px;
 }
