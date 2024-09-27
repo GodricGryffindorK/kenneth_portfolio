@@ -643,15 +643,15 @@ select {
 
 .about .about-content .education {
     -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
     margin-top: 30px;
 }
 
 .about .about-content .experience {
     -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
     margin-top: 30px;
 }
 
@@ -722,6 +722,14 @@ select {
     font-size: 18px;
     margin-bottom: 15px;
     text-transform: capitalize;
+    color: #302e4d;
+}
+
+.about .about-content .timeline .timeline-company {
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-style: italic;
     color: #302e4d;
 }
 

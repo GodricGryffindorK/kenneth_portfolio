@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["I'm a Web Developer", 'I Love Html5', 'I Love CSS3', 'I Love Jquery', 'I Love Laravel'],
+    strings: ["I'm a Senior Front End Engineer", 'I Love Web development', 'I Love Awesome', 'I Love HTML5', 'I Love TailwindCSS', 'I Love React', 'I Love Angular', 'I Love Vue'],
     loop: true
 });
 
